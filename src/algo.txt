@@ -1,0 +1,11 @@
+register
+
+get user details from frontend
+validate- empty fields 
+check new user /existing user 
+check for avatar and cover image
+upload to cloudihary
+create user object to store in db 
+remove password and hashing 
+check for user creation a
+return res
